@@ -1,4 +1,4 @@
-# Metrics-Tracker
+#   FireBase Metrics-Tracker
 
 RUN THESE COMMANDS IF NOT ALREADY INSTALLED 
 
